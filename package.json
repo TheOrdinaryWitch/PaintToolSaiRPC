@@ -17,5 +17,8 @@
     "presence"
   ],
   "author": "The Ordinary Witch",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ps-list": "^8.1.1"
+  }
 }
