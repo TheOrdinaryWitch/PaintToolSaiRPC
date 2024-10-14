@@ -1,0 +1,21 @@
+{
+  "name": "paint-tool-sai-rpc",
+  "version": "1.0.0",
+  "description": "Paint Tool Sai Discord RPC",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sai",
+    "discord",
+    "rpc",
+    "paint",
+    "tool",
+    "sai",
+    "rich",
+    "presence"
+  ],
+  "author": "The Ordinary Witch",
+  "license": "MIT"
+}
